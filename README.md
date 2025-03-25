@@ -9,12 +9,12 @@ Este es un programa en **JavaScript** y **Python** que permite registrar persona
 
 ## Instalación y Ejecución
 
-### 🐍 Python
+### Python
 1. Asegúrate de tener Python instalado (`python --version`).
 2. Guarda el archivo `script.py` y ejecútalo en la terminal con:
    ```sh
    python script.py
-### 🟢 JavaScript (Node.js)
+### JavaScript (Node.js)
 
 1. Instala Node.js si no lo tienes (node -v para verificar).
 2. Guarda el archivo script.js y ejecútalo con:
